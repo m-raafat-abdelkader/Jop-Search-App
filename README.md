@@ -2,6 +2,8 @@
 
 The Job Search App allows users to find jobs relevant to their area of interest.
 
+📘 Postman Documentation: https://documenter.getpostman.com/view/32279973/2sA3e49od7
+
 ## Features
 
 - Filter options to find the desired job.
